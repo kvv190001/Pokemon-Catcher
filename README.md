@@ -22,3 +22,14 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
+Dependencies:
+- opencv-python
+- numpy
+- requests
+- Pillow
+- mediapipe
+
+You’ll also need:
+- A working webcam
+- Internet connection (to fetch Pokémon data)

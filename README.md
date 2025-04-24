@@ -33,3 +33,15 @@ Dependencies:
 You’ll also need:
 - A working webcam
 - Internet connection (to fetch Pokémon data)
+
+## 🚀 How to Run
+```bash
+python main.py
+```
+
+1. A silhouette of a random Pokémon will appear.
+2. Type your guess.
+3. Whether you're right or wrong, you'll then get a chance to catch the Pokémon!
+4. Show your hand to the webcam and move it up or down to throw the Pokéball.
+5. After the throw, the result is shown and added to your Pokedex if caught.
+6. All images will be automatically deleted at the end of the game.

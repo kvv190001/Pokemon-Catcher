@@ -47,3 +47,9 @@ python main.py
 6. All images will be automatically deleted at the end of the game.
 
 ## 🖼️ Screenshots
+
+## 🧠 How it Works
+- The app uses MediaPipe Hands to track your palm position.
+- A "throw" is detected by tracking significant vertical movement.
+- 75% chance to catch the Pokémon after a throw.
+- The silhouette is created by converting the image to grayscale and removing brightness.

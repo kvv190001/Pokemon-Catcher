@@ -45,3 +45,5 @@ python main.py
 4. Show your hand to the webcam and move it up or down to throw the Pokéball.
 5. After the throw, the result is shown and added to your Pokedex if caught.
 6. All images will be automatically deleted at the end of the game.
+
+## 🖼️ Screenshots

@@ -47,6 +47,8 @@ python main.py
 6. All images will be automatically deleted at the end of the game.
 
 ## 🖼️ Screenshots
+![image](https://github.com/user-attachments/assets/9966d4aa-3d49-4dfa-ad96-2b6cbc620917)
+
 
 ## 🧠 How it Works
 - The app uses MediaPipe Hands to track your palm position.

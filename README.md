@@ -48,6 +48,8 @@ python main.py
 
 ## 🖼️ Screenshots
 ![image](https://github.com/user-attachments/assets/9966d4aa-3d49-4dfa-ad96-2b6cbc620917)
+![image](https://github.com/user-attachments/assets/d0ba5d63-a35d-493d-8a32-03f2fed2474d)
+
 
 
 ## 🧠 How it Works

@@ -59,4 +59,7 @@ python main.py
 - The silhouette is created by converting the image to grayscale and removing brightness.
 
 ## 🐛 Troubleshooting
+- If pokeball.png is not found, the app generates a fallback version.
+- If the webcam doesn't activate, make sure no other application is using it.
+- Hand detection may struggle in low light—try to play in a well-lit area.
 

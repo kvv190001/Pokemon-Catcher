@@ -64,4 +64,5 @@ python main.py
 - Hand detection may struggle in low light—try to play in a well-lit area.
 
 ## 🔰 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 

@@ -63,3 +63,5 @@ python main.py
 - If the webcam doesn't activate, make sure no other application is using it.
 - Hand detection may struggle in low light—try to play in a well-lit area.
 
+## 🔰 Contributing
+
